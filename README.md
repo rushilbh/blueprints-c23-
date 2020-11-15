@@ -1,2 +1,1 @@
-# blueprints-c23-
-//c23\\
+# Box Class
